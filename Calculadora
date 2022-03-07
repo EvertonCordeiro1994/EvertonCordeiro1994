@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   
+    
+    
+    <link rel="shortcut icon" href="/landing page/treino001/imagens/calculadora.png" type="image/x-icon">
+    <title>calculadora</title>
+    
+    <style>
+        @font-face{
+    font-family: Digital;
+    src:local(Digital), url(../treino001/fontes/Calculator.ttf) 
+        }
+        @font-face {
+            font-family: CaramelAndVanilla ;
+            src:local(CaramelAndVanilla) ,url(../treino001/fontes/Caramel\ and\ Vanilla.ttf);
+        }
+        @font-face {
+            font-family: Kghappy;
+            src:local(Kghappy) url(../treino001/fontes/KGHAPPYShadows.ttf);
+        }
+
+        body{
+            background-color: blue;
+            color: rgb(253, 32, 32);
+            max-width: 1500px;
+            max-height: 400px;
+            
+            
+        }
+        article{
+            margin:auto;
+            max-width: 650px;
+            max-height: 1050px;
+            background-color: #4f4f4f;
+            border-radius: 15px;
+        }
+
+        #mostrador{
+            margin-top: -250px;
+            margin: 25px;
+            max-width: 600px;
+            max-height: 1200px;
+            font-size: 50px;
+            color: black;
+            font-family: Digital;
+
+
+        }
+
+        h1,h3{
+            color: #4f4f4f;
+        }
+
+        h2{
+            display: flex;
+            flex-direction: column;
+            margin-top: -40px;
+            width: 600px;
+            height: 90px;
+            background-color: rgb(255, 255, 255);
+            border: 2px solid;
+            border-color: rgb(93, 156, 240);
+            border-radius: 15px;
+            color:black;
+            text-align:right;
+        }
+
+        h3{
+            margin-top: -80px;
+            display:flex;
+        }
+
+        h4{
+            text-align: center;
+            color: #d2691e;
+            font:20px solid;
+            font-family:monospace;
+        }
+
+        button{
+            background-color: #32CD32;
+            width: 145px;
+            height: 50px;
+            margin-top: -15px;
+            border-radius: 15px;
+            border: none;
+            font: 14px arial, sans-serif;
+            font: bold;
+        }
+
+        #linha01,#linha02,#linha03,#linha04,#linha05{
+            margin: 25px;
+            
+        }
+
+        #colorir00,#colorir01,#colorir02,#colorir03,#colorir04,#colorir05,#colorir06,#colorir08{
+            background-color: #d2691e;
+            font: 18px arial, sans-serif;
+        }
+
+        #colorir03{
+            background-color: #b22222;
+            
+        }
+
+        #colorir07{
+            background-color: #4285f4;
+            font: 18px arial, sans-serif;
+            font:white;
+        }
+    </style>
+</head>
+<body>
+    <article>
+        <div> <h1> " " </h1> </div>
+        <div id="mostrador"><h2 id="resultado">  </h2></div>
+        <div id="ajuste"><h3> 0 </h3> </div>
+        <div id="linha01">
+            <button onclick="insert('(')" id="colorir00"> ( </button> 
+            <button onclick="insert(')')" id="colorir01"> ) </button> 
+            <button onclick="bs()" id="colorir02"> ⌫ </button> 
+            <button  onclick="limpar()" id="colorir03"> limpar </button> 
+        </div>
+        <div id="linha02">
+            <button onclick="insert('7')"> 7 </button> 
+            <button onclick="insert('8')"> 8 </button> 
+            <button onclick="insert('9')"> 9 </button> 
+            <button onclick="insert('/')" id="colorir04"> ÷ </button> 
+        </div>
+        <div id="linha03">
+            <button onclick="insert('4')"> 4 </button> 
+            <button onclick="insert('5')"> 5 </button> 
+            <button onclick="insert('6')"> 6 </button> 
+            <button onclick="insert('*')" id="colorir05"> x </button> 
+        </div>
+        <div id="linha04">
+            <button onclick="insert('1')"> 1 </button> 
+            <button onclick="insert('2')"> 2 </button> 
+            <button onclick="insert('3')"> 3 </button> 
+            <button onclick="insert('-')" id="colorir06"> - </button> 
+        </div>
+        <div id="linha05">
+            <button onclick="insert('0')"> 0 </button> 
+            <button onclick="insert('.')"> . </button> 
+            <button onclick="calcular()" id="colorir07"> = </button> 
+            <button onclick="insert('+')" id="colorir08"> + </button> 
+        </div>
+        <div> <h1> " " </h1></div>
+    </article>
+    <footer>
+        <h4> Por Éverton Cordeiro </h4>
+    </footer>
+
+</body>
+<script>
+    function insert(num){
+        var numero = document.getElementById('resultado').innerHTML;
+        document.getElementById('resultado').innerHTML = numero + num;
+    }
+    function limpar(){
+        document.getElementById('resultado').innerHTML = " ";
+    }
+    function bs(){
+        var resultado = document.getElementById('resultado').innerHTML;
+        document.getElementById('resultado').innerHTML = resultado.substring(0,resultado.length-1);
+    }
+   
+    function calcular(){
+        var resultado = document.getElementById('resultado').innerHTML;
+        if(resultado){
+            document.getElementById('resultado').innerHTML= eval(resultado);
+        }
+        else{
+            document.getElementById('resultado').innerHTML= "ERRO";
+        }
+
+    }
+</script>
+</html> 
