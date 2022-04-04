@@ -1,5 +1,5 @@
 ### Olá me chamo Éverton Cordeiro,
-sou estudante de Análise e desenvolvimento de software 
+Estudante
 
 <div align="center">
   <a href="https://github.com/Evertoncordeiro1994">
