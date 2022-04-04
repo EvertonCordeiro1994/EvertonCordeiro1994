@@ -19,5 +19,5 @@ Estudante
  
 <div> 
   <a href = "mailto:evertoncordeiro@icloud.com"><img src="https://img.shields.io/badge/Icloud Mail-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/%C3%A9verton-cordeiro-512541112" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/everton-cordeiro-28361a235" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
