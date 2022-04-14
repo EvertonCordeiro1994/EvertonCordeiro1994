@@ -1,5 +1,5 @@
 ### Olá me chamo Éverton Cordeiro,
-Estudante
+
 
 <div align="center">
   <a href="https://github.com/Evertoncordeiro1994">
