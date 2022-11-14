@@ -43,23 +43,10 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   </p>
-
- 
-  <img width="100%" height="395px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertoncordeiro1994&layout=compact&hide_border=true&title_color=fff&text_color=ff91a4&bg_color=0d1117" />
+  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertoncordeiro1994&layout=compact&hide_border=true&title_color=fff&text_color=ff91a4&bg_color=0d1117" />
 </div>
-
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-  
-  ![Snake animation](https://github.com/EvertonCordeiro1994/EvertonCordeiro1994/blob/output/github-contribution-grid-snake.svg)
-  
-  
-  
- 
-  
   <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Contador de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{evertoncordeiro1994}/count.svg" /></p> 
 <br>
 </div>
