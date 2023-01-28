@@ -9,7 +9,7 @@
   <div>
   🌱 Atualmente estou aprendendo
     <div>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+            <img width=10%; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     </div>
   </div>
   
