@@ -7,7 +7,7 @@
 
 <div align="center">
   <div>
-  🌱 Atualmente estou aprendendo
+  🌱 Atualmente estou estudando 
     <div>
             <img width=10%; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     </div>
