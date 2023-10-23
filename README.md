@@ -5,9 +5,9 @@
   🌱 Atualmente estou estudando 
     <div> 
       <p  align="center">
-        <img src="https://github.com/EvertonCordeiro1994/cursoJsGuanabara/blob/main/rb.svg" alt="icone React"  width="80" height="80"/>
+       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="icone JavaScript" width="80" height="80"/>
       </p>
-        <p> ReactStrap </p> 
+        <p> JavaScript </p> 
     </div>
   </div>
   
