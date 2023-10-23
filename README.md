@@ -7,7 +7,7 @@
       <p  align="center">
        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="icone JavaScript" width="80" height="80"/>
       </p>
-        <p> JavaScript </p> 
+        <p> JavaScript com bootstrap </p> 
     </div>
   </div>
   
