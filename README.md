@@ -35,11 +35,7 @@
 <div align="center"> 
   <h2 align="center">Linguagens e frameworks que eu uso:</h2>
     <p align="between">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="icone HTML" width="80" height="80"/>
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="icone CSS"  width="80" height="80"/>
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="icone JavaScript" width="80" height="80"/>
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="icone Bootstrap"  width="80" height="80"/>
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="icone React"  width="80" height="80"/>
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react,git,python" />
     </p>
   
   <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertoncordeiro1994&layout=compact&hide_border=true&title_color=fff&text_color=ff91a4&bg_color=0d1117" />
