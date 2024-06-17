@@ -6,7 +6,7 @@
     <div></div>
     <div> 
       <p  align="center">
-       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="icone JavaScript" width="80" height="80"/>
+       <img src="https://skillicons.dev/icons?i=javascript" />
       </p>
         <p> JavaScript com bootstrap </p> 
     </div>
