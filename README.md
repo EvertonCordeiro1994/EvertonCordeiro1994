@@ -2,7 +2,7 @@
 
 <div align="center">
   <div>
-  🌱 Atualmente estou estudando 
+   Atualmente estou estudando 
     <div> <br/> </div>
     <div> 
       <p  align="center">
@@ -18,15 +18,13 @@
 ##
 
 <div align="center"> 
-  <h2 align="center">Linguagens e frameworks que eu uso:</h2>
-    <p align="between">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react,git,python" />
-    </p>
+  <h2 align="center"> 
+    Linguagens e frameworks que eu uso: 
+  </h2>
+  <p align="between">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react,git,python" /> 
+  </p>
   
   <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertoncordeiro1994&layout=compact&hide_border=true&title_color=fff&text_color=ff91a4&bg_color=0d1117" />
 </div>
-  <div align="center">
-<br><p align="centre"><b>Contador de visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{evertoncordeiro1994}/count.svg" /></p> 
-<br>
-</div>
+  
