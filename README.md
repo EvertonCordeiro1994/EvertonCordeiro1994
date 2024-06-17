@@ -8,7 +8,7 @@
       <p  align="center">
        <img src="https://skillicons.dev/icons?i=javascript" />
       </p>
-        <p> JavaScript com bootstrap </p> 
+        <p> JavaScript </p> 
     </div>
   </div>
   
