@@ -3,7 +3,7 @@
 <div align="center">
   <div>
   🌱 Atualmente estou estudando 
-    <div></div>
+    <div> <br/> </div>
     <div> 
       <p  align="center">
        <img src="https://skillicons.dev/icons?i=javascript" />
@@ -13,22 +13,7 @@
   </div>
   
   
-  <div>
-   👨‍💻 Todos os meus projetos estão disponíveis em
-    <div>
-     <a href = "https://evertoncordeiroportifolio.netlify.app/"><img src="https://img.shields.io/badge/Portfólio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a>
-    </div>
-   </div>
-  
-  
-   <div>
-   📫 Como entrar em contato comigo
-    <div> 
-     <a href = "mailto:evertoncordeiro@icloud.com"><img src="https://img.shields.io/badge/Icloud Mail-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/everton-cordeiro-28361a235" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    </div>
-   </div>
-</div>
+ 
 
 ##
 
