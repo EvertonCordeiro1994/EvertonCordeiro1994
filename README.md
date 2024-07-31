@@ -22,7 +22,7 @@
     Linguagens e frameworks que eu uso: 
   </h2>
   <p align="between">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react,git,python" /> 
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,jquery,git" /> 
   </p>
   
   <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evertoncordeiro1994&layout=compact&hide_border=true&title_color=fff&text_color=ff91a4&bg_color=0d1117" />
