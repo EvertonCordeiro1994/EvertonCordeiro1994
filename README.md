@@ -8,7 +8,7 @@
       <p  align="center">
        <img src="https://skillicons.dev/icons?i=python" />
       </p>
-        <p> JavaScript </p> 
+        <p> Python </p> 
     </div>
   </div>
   
