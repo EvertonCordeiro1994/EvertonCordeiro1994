@@ -6,7 +6,7 @@
     <div> <br/> </div>
     <div> 
       <p  align="center">
-       <img src="https://skillicons.dev/icons?i=javascript" />
+       <img src="https://skillicons.dev/icons?i=python" />
       </p>
         <p> JavaScript </p> 
     </div>
