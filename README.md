@@ -6,9 +6,9 @@
     <div> <br/> </div>
     <div> 
       <p  align="center">
-       <img src="https://skillicons.dev/icons?i=python" />
+       <img src="https://skillicons.dev/icons?i=nodejs" />
       </p>
-        <p> Python </p> 
+        <p> Node js </p> 
     </div>
   </div>
   
