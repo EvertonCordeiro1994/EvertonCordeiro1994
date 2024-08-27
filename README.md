@@ -22,7 +22,7 @@
     Tools: 
   </h2>
   <p align="between">
-    <img src="https://skillicons.dev/icons?i=tailwind,p5js,jquery" /> 
+    <img src="https://skillicons.dev/icons?i=sass,tailwind,p5js,jquery" /> 
   </p>
 
   
