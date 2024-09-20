@@ -4,7 +4,7 @@
     <div> <br/> </div>
     <div> 
       <p  align="center">
-       <img src="https://skillicons.dev/icons?i=nodejs" />
+       <img src="https://skillicons.dev/icons?i=nodejs,java" />
       </p>
         <p> Node js </p> 
     </div>
